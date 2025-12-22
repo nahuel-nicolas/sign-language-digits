@@ -1,7 +1,7 @@
-# python=3.12.3
-tensorflow
+# python=3.10.11
+tensorflow==2.10.1
 numpy
 matplotlib
 seaborn
 scikit-learn
-
+ipykernel
